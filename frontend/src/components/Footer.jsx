@@ -44,10 +44,10 @@ const Footer = () => {
 
           <h4 className="text-white font-bold text-sm mb-4 uppercase tracking-wider">Follow Our Journey</h4>
           <div className="flex justify-center md:justify-start gap-6">
-            <a href="https://www.instagram.com/shecanfoundation.ngo/" target="_blank" rel="noreferrer" className="bg-gray-800 p-3 rounded-full bg-gradient-to-tr from-yellow-400 via-pink-500 to-purple-500 text-white transition-all transform hover:scale-110 shadow-lg">
+            <a href="https://www.instagram.com/shecanfoundation.ngo/" target="_blank" rel="noreferrer" className="p-3 rounded-full bg-gradient-to-tr from-yellow-400 via-pink-500 to-purple-500 text-white transition-all transform hover:scale-110 shadow-lg">
               <FaInstagram className="text-xl" />
             </a>
-            <a href="https://www.linkedin.com/company/shecanfoundation" target="_blank" rel="noreferrer" className="bg-gray-800 p-3 rounded-full bg-[#2D68C4] text-white transition-all transform hover:scale-110 shadow-lg">
+            <a href="https://www.linkedin.com/company/shecanfoundation" target="_blank" rel="noreferrer" className="p-3 rounded-full bg-[#2D68C4] text-white transition-all transform hover:scale-110 shadow-lg">
               <FaLinkedin className="text-xl" />
             </a>
           </div>
