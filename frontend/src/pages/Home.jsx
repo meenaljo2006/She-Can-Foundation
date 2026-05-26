@@ -20,7 +20,7 @@ const Home = () => {
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1 }}
-          src="/logo.png" 
+          src="logo.png" 
           alt="She Can Logo" 
           className="h-32 w-32 md:h-40 md:w-40 object-cover rounded-full shadow-[0_0_40px_rgba(255,255,255,0.3)] mb-8 border-4 border-white/20"
         />

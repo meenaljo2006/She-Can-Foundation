@@ -5,9 +5,8 @@ import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import About from './pages/About';
 import Story from './pages/Story';
-
-const Campaigns = () => <div className="pt-32 text-center text-3xl h-screen dark:text-white">Campaigns Page Coming Soon...</div>;
-const Contact = () => <div className="pt-32 text-center text-3xl h-screen dark:text-white">Contact Page Coming Soon...</div>;
+import Contact from './pages/Contact';
+import Campaigns from './pages/Campaigns';
 
 function App() {
   const [darkMode, setDarkMode] = useState(false);
