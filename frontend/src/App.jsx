@@ -6,7 +6,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Story from './pages/Story';
 import Contact from './pages/Contact';
-import Campaigns from './pages/Campaigns';
+import Donate from './pages/Donate';
 
 function App() {
   const [darkMode, setDarkMode] = useState(false);
@@ -29,7 +29,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} /> 
         <Route path="/story" element={<Story />} />
-        <Route path="/campaigns" element={<Campaigns />} />
+        <Route path="/donate" element={<Donate />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
     </Router>

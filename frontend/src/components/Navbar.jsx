@@ -61,7 +61,7 @@ const Navbar = ({ darkMode, setDarkMode }) => {
               {darkMode ? <FiSun className="text-lg" /> : <FiMoon className="text-lg" />}
             </button>
 
-            <Link to="/campaigns">
+            <Link to="/donate">
               <motion.button 
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}

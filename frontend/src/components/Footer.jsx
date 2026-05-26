@@ -24,7 +24,7 @@ const Footer = () => {
           <Link to="/" className="text-gray-400 hover:text-orange-400 hover:translate-x-2 transition-all w-max mx-auto md:mx-0">Home</Link>
           <Link to="/about" className="text-gray-400 hover:text-orange-400 hover:translate-x-2 transition-all w-max mx-auto md:mx-0">About Us</Link>
           <Link to="/story" className="text-gray-400 hover:text-orange-400 hover:translate-x-2 transition-all w-max mx-auto md:mx-0">Our Story</Link>
-          <Link to="/campaigns" className="text-gray-400 hover:text-orange-400 hover:translate-x-2 transition-all w-max mx-auto md:mx-0">Donate / Campaigns</Link>
+          <Link to="/donate" className="text-gray-400 hover:text-orange-400 hover:translate-x-2 transition-all w-max mx-auto md:mx-0">Donate</Link>
           <Link to="/contact" className="text-gray-400 hover:text-orange-400 hover:translate-x-2 transition-all w-max mx-auto md:mx-0">Contact Us</Link>
         </div>
 

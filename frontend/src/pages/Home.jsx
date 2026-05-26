@@ -49,7 +49,7 @@ const Home = () => {
           transition={{ delay: 0.9, duration: 0.8 }}
           className="flex flex-col sm:flex-row gap-4"
         >
-          <Link to="/campaigns">
+          <Link to="/donate">
             <button className="w-full sm:w-auto bg-orange-500 hover:bg-orange-600 text-white text-lg px-8 py-4 rounded-full font-bold shadow-[0_0_20px_rgba(249,115,22,0.4)] transition-all hover:-translate-y-1">
               Donate Now
             </button>
