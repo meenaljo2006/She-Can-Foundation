@@ -4,8 +4,8 @@ import { Toaster } from 'react-hot-toast';
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import About from './pages/About';
+import Story from './pages/Story';
 
-const Story = () => <div className="pt-32 text-center text-3xl h-screen dark:text-white">Our Story Page Coming Soon...</div>;
 const Campaigns = () => <div className="pt-32 text-center text-3xl h-screen dark:text-white">Campaigns Page Coming Soon...</div>;
 const Contact = () => <div className="pt-32 text-center text-3xl h-screen dark:text-white">Contact Page Coming Soon...</div>;
 
