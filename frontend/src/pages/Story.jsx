@@ -9,13 +9,13 @@ const Story = () => {
   };
 
   const galleryImages = [
-    { id: 1, src: "public/ngo1.webp", style: "md:col-span-2 md:row-span-2" },
-    { id: 2, src: "public/ngo2.webp", style: "md:col-span-1 md:row-span-1" },
-    { id: 3, src: "public/ngo3.avif", style: "md:col-span-1 md:row-span-2" }, 
-    { id: 4, src: "public/ngo7.avif", style: "md:col-span-1 md:row-span-1" }, 
-    { id: 5, src: "public/ngo5.webp", style: "md:col-span-2 md:row-span-1" }, 
-    { id: 6, src: "public/ngo6.webp", style: "md:col-span-1 md:row-span-1" }, 
-    { id: 7, src: "public/ngo4.png", style: "md:col-span-1 md:row-span-1" }, 
+    { id: 1, src: "/ngo1.webp", style: "md:col-span-2 md:row-span-2" },
+    { id: 2, src: "/ngo2.webp", style: "md:col-span-1 md:row-span-1" },
+    { id: 3, src: "/ngo3.avif", style: "md:col-span-1 md:row-span-2" }, 
+    { id: 4, src: "/ngo7.avif", style: "md:col-span-1 md:row-span-1" }, 
+    { id: 5, src: "/ngo5.webp", style: "md:col-span-2 md:row-span-1" }, 
+    { id: 6, src: "/ngo6.webp", style: "md:col-span-1 md:row-span-1" }, 
+    { id: 7, src: "/ngo4.png", style: "md:col-span-1 md:row-span-1" }, 
   ];
 
   return (
